@@ -1,1 +1,1 @@
-# Suicide-Rate-Analysis
+# Exploratory Study on Suicidal Rate Analysis
